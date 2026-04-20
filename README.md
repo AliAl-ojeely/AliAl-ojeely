@@ -21,7 +21,7 @@ I'm a passionate developer specializing in building dynamic web interfaces and h
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,react,nodejs,electron,git,github,figma" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,react,nodejs,electron,git,github" alt="My Skills" />
 </p>
 
 ---

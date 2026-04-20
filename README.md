@@ -28,11 +28,11 @@ I'm a passionate developer specializing in building dynamic web interfaces and h
 
 ### Featured Projects
 
-*  **Nexus Game Launcher:** A high-performance local game library manager built with **Electron.js** and Node.js, featuring a smart caching system for zero-second Steam API data loading.
-*  **TempCleaner:** A lightweight Windows utility built in **C#** to quickly clean temporary cache files and unwanted Windows update leftovers.
-*  **Advanced Game Installer Script:** An open-source **Inno Setup** (Pascal) template featuring precise progress tracking and automated admin handling for large-scale distribution.
-*  **Bank System (C++):** A console-based system applying core Object-Oriented Programming (OOP) principles with a modular design.
-*  **UST Community Dashboard:** A comprehensive admin panel developed using **React.js** with real-time activity monitoring.
+* **[Nexus Game Launcher](https://github.com/AliAl-ojeely/nexus-game-launcher):** A high-performance local game library manager built with **Electron.js** and Node.js, featuring a smart caching system for zero-second Steam API data loading.
+* **[TempCleaner](https://github.com/AliAl-ojeely/TempCleaner):** A lightweight Windows utility built in **C#** to quickly clean temporary cache files and unwanted Windows update leftovers.
+* **[Advanced Game Installer Script](https://github.com/AliAl-ojeely/InnoSetup-Game-Installer-Template):** An open-source **Inno Setup** (Pascal) template featuring precise progress tracking and automated admin handling for large-scale distribution.
+* **[Bank System (C++)](https://github.com/AliAl-ojeely/Bank_System_OOP):** A console-based system applying core Object-Oriented Programming (OOP) principles with a modular design.
+* **[UST Community Dashboard](https://github.com/AliAl-ojeely/admin-dashboard):** A comprehensive admin panel developed using **React.js** with real-time activity monitoring.
 
 ---
 

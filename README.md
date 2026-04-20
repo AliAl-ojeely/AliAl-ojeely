@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ali Nasser Al-Ojeely
 
-<!--
-**AliAl-ojeely/AliAl-ojeely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend & Software Developer | Desktop Apps & Game Tools Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate developer specializing in building dynamic web interfaces and high-performance desktop applications. I focus on smart architecture, seamless user experiences, and diving deep into foundational programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  **Currently working on:** Enhancing **Nexus Game Launcher** & exploring 2D game development.
+*  **Deeply interested in:** Core programming (C++, OOP), system optimization, and custom game installers.
+*  **Reach me at:** alialojeely@gmail.com
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliAl-ojeely&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ali's GitHub Stats" />
+</p>
+
+---
+
+### Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,react,nodejs,electron,git,github,figma" alt="My Skills" />
+</p>
+
+---
+
+### Featured Projects
+
+*  **Nexus Game Launcher:** A high-performance local game library manager built with **Electron.js** and Node.js, featuring a smart caching system for zero-second Steam API data loading.
+*  **TempCleaner:** A lightweight Windows utility built in **C#** to quickly clean temporary cache files and unwanted Windows update leftovers.
+*  **Advanced Game Installer Script:** An open-source **Inno Setup** (Pascal) template featuring precise progress tracking and automated admin handling for large-scale distribution.
+*  **Bank System (C++):** A console-based system applying core Object-Oriented Programming (OOP) principles with a modular design.
+*  **UST Community Dashboard:** A comprehensive admin panel developed using **React.js** with real-time activity monitoring.
+
+---
+
+###  Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AliAl-ojeely&color=ce092e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>

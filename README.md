@@ -4,7 +4,7 @@
 
 I'm a passionate developer specializing in building dynamic web interfaces and high-performance desktop applications. I focus on smart architecture, seamless user experiences, and diving deep into foundational programming.
 
-*  **Currently working on:** Enhancing **Nexus Game Launcher** & exploring 2D game development.
+*  **Currently working on:** Enhancing **Nexus Game Launcher** & Learing in SQL + C#.
 *  **Deeply interested in:** Core programming (C++, OOP), system optimization, and custom game installers.
 *  **Reach me at:** alialojeely@gmail.com
 

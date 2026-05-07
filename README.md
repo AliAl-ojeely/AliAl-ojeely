@@ -8,14 +8,13 @@ I'm a passionate developer specializing in building dynamic web interfaces and h
 *  **Deeply interested in:** Core programming (C++, OOP), system optimization, and custom game installers.
 *  **Reach me at:** alialojeely@gmail.com
 
----
-
+<!--
 ### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliAl-ojeely&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ali's GitHub Stats" />
 </p>
-
+<-->
 ---
 
 ### Languages & Tools

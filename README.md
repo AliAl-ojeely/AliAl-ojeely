@@ -27,9 +27,10 @@ I am a passionate developer specializing in building dynamic web interfaces and 
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
 * **[Nexus Game Launcher](https://github.com/AliAl-ojeely/nexus-game-launcher):** A high-performance local game library manager built with **Electron.js** and Node.js, featuring a smart playtime tracking system and zero-second Steam API data loading.
+* **[CMD Vault](https://github.com/AliAl-ojeely/CMD-Vault):** A fully offline, bilingual (Arabic & English) cross-platform command reference tool built with **Electron.js**. It features an instantly searchable library for Windows, Linux, and macOS, wrapped in an OLED-friendly dark theme.
 * **[TempCleaner](https://github.com/AliAl-ojeely/TempCleaner):** A lightweight Windows utility built in **C#** to quickly clean temporary cache files and unwanted Windows update leftovers.
 * **[Advanced Game Installer Script](https://github.com/AliAl-ojeely/InnoSetup-Game-Installer-Template):** An open-source **Inno Setup** template featuring precise progress tracking, custom compression repacking, and automated admin handling.
 * **[Tic-Tac-Toe (WinForms)](https://github.com/AliAl-ojeely/TicTacToe-WinForms):** A lightweight, fully offline desktop game built with **C#**. It demonstrates clean state management, live score tracking, and features a sleek, OLED-friendly Pitch Black dark theme.

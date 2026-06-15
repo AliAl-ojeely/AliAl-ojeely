@@ -9,6 +9,7 @@ I am a passionate developer specializing in building dynamic web interfaces and 
 *  **Deeply interested in:** Object-Oriented Programming, system optimization, custom game installers (Inno Setup), and terminal customization. 
 *  **Reach me at:** alialojeely@gmail.com
 
+<!--
 ---
 
 ### GitHub Stats
@@ -18,6 +19,7 @@ I am a passionate developer specializing in building dynamic web interfaces and 
 </p>
 
 
+-->
 ---
 
 ###  Languages & Tools

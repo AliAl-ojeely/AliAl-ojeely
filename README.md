@@ -1,6 +1,6 @@
 # Hi, I'm Ali Nasser Al-Ojeely
 
-### Frontend & Software Developer | Desktop Apps & Game Tools Enthusiast
+### Frontend & Desktop Application Developer
 
 I am a passionate developer specializing in building dynamic web interfaces and high-performance desktop applications. I focus on smart architecture, seamless user experiences, and diving deep into foundational programming. I take pride in crafting lightweight, offline-first utilities with sleek, dark-themed interfaces.
 

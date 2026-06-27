@@ -9,23 +9,24 @@ I am a passionate developer specializing in building dynamic web interfaces and 
 *  **Deeply interested in:** Object-Oriented Programming, system optimization, custom game installers (Inno Setup), and terminal customization. 
 *  **Reach me at:** alialojeely@gmail.com
 
-<!--
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAl-ojeely&show_icons=true&theme=radical&hide_border=true" alt="Ali's GitHub Stats" />
-</p>
-
-
--->
 ---
 
 ###  Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,react,nodejs,electron,git,github,linux" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,react,nodejs,electron,git,github,dotnet,visualstudio,sqlite,linux" alt="My Skills" />
 </p>
+
+---
+
+### Top Languages | GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alial-ojeely&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=alial-ojeely&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<br clear="both" />
+
 
 ---
 
@@ -37,7 +38,16 @@ I am a passionate developer specializing in building dynamic web interfaces and 
 * **[Advanced Game Installer Script](https://github.com/AliAl-ojeely/InnoSetup-Game-Installer-Template):** An open-source **Inno Setup** template featuring precise progress tracking, custom compression repacking, and automated admin handling.
 * **[Tic-Tac-Toe (WinForms)](https://github.com/AliAl-ojeely/TicTacToe-WinForms):** A lightweight, fully offline desktop game built with **C#**. It demonstrates clean state management, live score tracking, and features a sleek, OLED-friendly Pitch Black dark theme.
 * **[Bank System (C++)](https://github.com/AliAl-ojeely/Bank_System_OOP):** A console-based system applying core Object-Oriented Programming (OOP) principles with a modular design.
-  
+
+<!--
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alial-ojeely&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+-->
+
 <!--
 ###  Profile Views
 <p align="left">

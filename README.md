@@ -1,4 +1,4 @@
-<!-- GitHub Profile README | Personal brand: Midnight / Cyan / Lavender -->
+<!-- GitHub Profile README | Personal brand: Terminal Noir / Mint / Warm Gold -->
 <div align="center">
 
 <picture>
@@ -15,10 +15,10 @@
   I build <strong>offline-first applications</strong>, thoughtful interfaces, and tools that make complex workflows feel simple.
 </p>
 
-<a href="https://alial-ojeely.github.io/"><img alt="Portfolio website" src="https://img.shields.io/badge/PORTFOLIO-Explore-2dd4bf?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0b1220&amp;labelColor=152338" /></a>
-<a href="https://alial-ojeely.github.io/Arabic-L10-Hub/"><img alt="Arabic L10 Hub website" src="https://img.shields.io/badge/ARABIC_L10_HUB-Visit-a78bfa?style=for-the-badge&amp;logo=react&amp;logoColor=ffffff&amp;labelColor=152338" /></a>
-<a href="https://www.linkedin.com/in/alinasseralojeely/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LINKEDIN-Connect-60a5fa?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ffffff&amp;labelColor=152338" /></a>
-<a href="mailto:alialojeely@gmail.com"><img alt="Email Ali" src="https://img.shields.io/badge/EMAIL-Say_Hello-cbd5e1?style=for-the-badge&amp;logo=gmail&amp;logoColor=ffffff&amp;labelColor=152338" /></a>
+<a href="https://alial-ojeely.github.io/"><img alt="Portfolio website" src="https://img.shields.io/badge/PORTFOLIO-Explore-7bffc3?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=07100d&amp;labelColor=14272a" /></a>
+<a href="https://alial-ojeely.github.io/Arabic-L10-Hub/"><img alt="Arabic L10 Hub website" src="https://img.shields.io/badge/ARABIC_L10_HUB-Visit-e5b76d?style=for-the-badge&amp;logo=react&amp;logoColor=07100d&amp;labelColor=14272a" /></a>
+<a href="https://www.linkedin.com/in/alinasseralojeely/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LINKEDIN-Connect-7bffc3?style=for-the-badge&amp;logo=linkedin&amp;logoColor=07100d&amp;labelColor=14272a" /></a>
+<a href="mailto:alialojeely@gmail.com"><img alt="Email Ali" src="https://img.shields.io/badge/EMAIL-Say_Hello-e5b76d?style=for-the-badge&amp;logo=gmail&amp;logoColor=07100d&amp;labelColor=14272a" /></a>
 
 </div>
 
@@ -62,11 +62,11 @@ I care about three things in particular: **local-first design**, **English/Arabi
       <p><a href="https://alial-ojeely.github.io/Arabic-L10-Hub/">Live website</a> &nbsp; | &nbsp; <a href="https://github.com/AliAl-ojeely/Arabic-L10-Hub">Source</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AliAl-ojeely/Game-Translator"><img src="assets/projects/translator.svg" width="100%" alt="Game Translator project cover" /></a>
-      <h3><a href="https://github.com/AliAl-ojeely/Game-Translator">Game Translator</a></h3>
-      <p>A fully offline Windows localization utility for JSON game text, with side-by-side translation review, structured output, and integrations with local LLM endpoints.</p>
-      <sub><strong>C# &middot; .NET 8 &middot; WPF &middot; MVVM &middot; Local LLMs</strong></sub>
-      <p><a href="https://github.com/AliAl-ojeely/Game-Translator">Source &amp; documentation</a></p>
+      <a href="https://github.com/AliAl-ojeely/Folder-Notifier"><img src="assets/projects/folder-notifier.svg" width="100%" alt="Folder Notifier project cover" /></a>
+      <h3><a href="https://github.com/AliAl-ojeely/Folder-Notifier">Folder Notifier</a></h3>
+      <p>A privacy-first Windows utility that attaches notes to folders and displays them through Explorer integration. Features a local SQLite database, system tray controls, and English/Arabic RTL support.</p>
+      <sub><strong>C# &middot; .NET 8 &middot; WPF &middot; SQLite &middot; Windows Shell</strong></sub>
+      <p><a href="https://github.com/AliAl-ojeely/Folder-Notifier">Source &amp; documentation</a></p>
     </td>
   </tr>
 </table>
@@ -78,7 +78,7 @@ I care about three things in particular: **local-first design**, **English/Arabi
 | [**CMD Vault**](https://github.com/AliAl-ojeely/CMD-Vault) | Offline, bilingual command reference for Windows, Linux, and macOS | Electron, JS |
 | [**SnipSave**](https://github.com/AliAl-ojeely/SnipSave) | Automatically saves Windows Snipping Tool screenshots with duplicate protection | C#, WPF |
 | [**TempCleaner**](https://github.com/AliAl-ojeely/TempCleaner) | Windows cleanup utility with an English/Arabic UI | C#, .NET 8 |
-| [**Folder Notifier**](https://github.com/AliAl-ojeely/Folder-Notifier) | Folder-based notes, File Explorer integration, and tray support | C#, WPF |
+| [**Click2Key**](https://github.com/AliAl-ojeely/Click2Key) | Windows keyboard shortcut utility with optional delays and tray support | C#, WinForms |
 | [**Inno Setup Game Installer**](https://github.com/AliAl-ojeely/InnoSetup-Game-Installer-Template) | Customizable installer scripts with precise progress and time estimates | Inno Setup |
 | [**Bank System (OOP)**](https://github.com/AliAl-ojeely/Bank_System_OOP) | A modular C++ console banking system applying OOP principles | C++ |
 
@@ -87,29 +87,10 @@ I care about three things in particular: **local-first design**, **English/Arabi
 ### 04 / THE TOOLKIT
 
 <div align="center">
-
-<strong>LANGUAGES</strong>
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,python,html,css&amp;perline=6" alt="C++, C#, JavaScript, Python, HTML and CSS" />
-
-<strong>FRAMEWORKS &amp; RUNTIMES</strong>
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,electron,dotnet&amp;perline=5" alt="React, Vite, Node.js, Electron and .NET" />
-
-<strong>TOOLS &amp; WORKFLOWS</strong>
-
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,sqlite,linux&amp;perline=5" alt="Git, GitHub, Visual Studio, SQLite and Linux" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,python,html,css,react,vite,nodejs,electron,dotnet,git,github,visualstudio,sqlite,linux&amp;perline=16&amp;theme=dark" width="100%" alt="C++, C#, JavaScript, Python, HTML, CSS, React, Vite, Node.js, Electron, .NET, Git, GitHub, Visual Studio, SQLite and Linux" />
+  <br />
+  <sub>Desktop applications &nbsp;&middot;&nbsp; Web interfaces &nbsp;&middot;&nbsp; Game tooling &nbsp;&middot;&nbsp; Automation &amp; localization</sub>
 </div>
-
-<br />
-
-| What I work on | Engineering focus |
-| :--- | :--- |
-| **Desktop &amp; native** | Electron, C#/.NET, WPF, Windows integration, experimental C++ graphics bridges |
-| **Web &amp; UI systems** | React, JavaScript, responsive layouts, UX architecture, Arabic RTL support |
-| **Game technology** | EmulatorJS/FBNeo, WebAssembly, local game libraries, Inno Setup installers |
-| **Developer tooling** | Python automation, JSON/CSV processing, Git, diagnostics, regression testing |
 
 ### 05 / WHAT I'M EXPLORING NOW
 
@@ -122,8 +103,14 @@ I care about three things in particular: **local-first design**, **English/Arabi
   <summary><strong>06 / GITHUB ACTIVITY - VIEW STATS</strong></summary>
   <br />
   <div align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliAl-ojeely&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="Ali's GitHub statistics" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAl-ojeely&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Top languages across public repositories" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AliAl-ojeely&amp;show_icons=true&amp;bg_color=EEF1EF&amp;title_color=088A64&amp;text_color=16282A&amp;icon_color=CF7924&amp;border_color=BACDCA" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliAl-ojeely&amp;show_icons=true&amp;bg_color=050A0D&amp;title_color=7BFFC3&amp;text_color=E8FCF0&amp;icon_color=E5B76D&amp;border_color=315149" alt="Ali's GitHub statistics" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAl-ojeely&amp;layout=compact&amp;bg_color=EEF1EF&amp;title_color=088A64&amp;text_color=16282A&amp;border_color=BACDCA" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAl-ojeely&amp;layout=compact&amp;bg_color=050A0D&amp;title_color=7BFFC3&amp;text_color=E8FCF0&amp;border_color=315149" alt="Top languages across public repositories" />
+    </picture>
     <p><sub>Repository language distribution is not a proficiency ranking. Cards depend on a third-party service.</sub></p>
   </div>
 </details>
@@ -131,7 +118,5 @@ I care about three things in particular: **local-first design**, **English/Arabi
 <br />
 
 <div align="center">
-  <a href="mailto:alialojeely@gmail.com"><img src="assets/contact-banner.svg" width="100%" alt="Connect with Ali Nasser Al-Ojeely by email" /></a>
-  <p><a href="https://alial-ojeely.github.io/">Portfolio</a> &nbsp; &middot; &nbsp; <a href="https://github.com/AliAl-ojeely?tab=repositories">All repositories</a> &nbsp; &middot; &nbsp; <a href="https://www.linkedin.com/in/alinasseralojeely/">LinkedIn</a> &nbsp; &middot; &nbsp; <a href="mailto:alialojeely@gmail.com">Email</a></p>
-  <sub>Designed to be useful. Built to keep getting better.</sub>
+  <sub><code>~/ali/workspace $ build --quality=high</code> &nbsp;&middot;&nbsp; Designed to be useful. Built to keep getting better.</sub>
 </div>

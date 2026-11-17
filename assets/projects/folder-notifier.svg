@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-labelledby="title desc">
+<title id="title">FOLDER NOTIFIER - Terminal Noir</title>
+<desc id="desc">Original Terminal Noir project illustration for FOLDER NOTIFIER; not a screenshot of the application.</desc>
+<defs><pattern id="grid" width="37" height="37" patternUnits="userSpaceOnUse"><path d="M37 0H0V37" stroke="#315149" stroke-opacity=".075" stroke-width=".9" fill="none"/></pattern><clipPath id="clip"><rect width="900" height="380" rx="16"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect x="0" y="0" width="900" height="380" rx="0" fill="#050a0d"/>
+<rect x="0" y="0" width="900" height="380" rx="0" fill="url(#grid)"/>
+<rect x="0" y="0" width="900" height="4" rx="0" fill="#7bffc3"/>
+<text x="44" y="51" font-family="Consolas, Menlo, monospace" font-size="16" font-weight="400" text-anchor="start" fill="#7bffc3" letter-spacing="1">04 / ~/ali/projects/folder-notifier</text>
+<text x="44" y="136" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="800" text-anchor="start" fill="#e8fcf0">FOLDER</text>
+<text x="44" y="197" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="800" text-anchor="start" fill="#e8fcf0">NOTIFIER</text>
+<rect x="44" y="218" width="55" height="4" rx="2" fill="#e5b76d"/>
+<text x="44" y="260" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#9ebeb2">Contextual folder notes for Windows</text>
+<rect x="43" y="301" width="455" height="44" rx="8" fill="#0c171a" stroke="#315149" stroke-width="1"/>
+<text x="60" y="328" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="400" text-anchor="start" fill="#e5b76d">C# / WPF / SQLITE</text>
+<path d="M525 48v285" fill="none" stroke="#315149" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 8"/>
+<g><rect x="553" y="52" width="306" height="274" rx="12" fill="#0c171a" stroke="#315149" stroke-width="1.5"/><rect x="554" y="53" width="304" height="37" rx="11" fill="#14272a"/><rect x="554" y="74" width="304" height="17" rx="0" fill="#14272a"/><circle cx="574" cy="72" r="4.5" fill="#f07b70"/><circle cx="591" cy="72" r="4.5" fill="#e5b76d"/><circle cx="608" cy="72" r="4.5" fill="#7bffc3"/><text x="703" y="77" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="400" text-anchor="middle" fill="#9ebeb2">folder-notifier / notes</text></g><rect x="573" y="112" width="266" height="197" rx="8" fill="#102024" stroke="#315149" stroke-width="1"/><path d="M597 178v-34a10 10 0 0 1 10-10h49l18 15h61a10 10 0 0 1 10 10v74a10 10 0 0 1-10 10H607a10 10 0 0 1-10-10Z" fill="#14392f" stroke="#7bffc3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><path d="M598 169h145" fill="none" stroke="#e5b76d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><rect x="675" y="186" width="137" height="102" rx="8" fill="#293026" stroke="#e5b76d" stroke-width="1.5"/><text x="692" y="209" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="400" text-anchor="start" fill="#e5b76d">NOTE / 01</text><path d="M693 225h99M693 238h80M693 251h92" fill="none" stroke="#9ebeb2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><rect x="694" y="263" width="57" height="5" rx="2" fill="#7bffc3"/><text x="591" y="277" font-family="Consolas, Menlo, monospace" font-size="12" font-weight="400" text-anchor="start" fill="#9ebeb2">C:/Projects/</text><circle cx="817" cy="126" r="8" fill="#7bffc3"/><text x="817" y="130" font-family="Consolas, Menlo, monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#050a0d">1</text>
+<rect x="0" y="377" width="900" height="3" rx="0" fill="#7bffc3"/>
+</g>
+</svg>

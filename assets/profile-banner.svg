@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Nasser Al-Ojeely - Software Developer</title>
+  <desc id="desc">Dark navy developer banner with cyan and violet highlights, showing a personal introduction and areas of focus.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#080d18" />
+      <stop offset="0.52" stop-color="#101b30" />
+      <stop offset="1" stop-color="#101126" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#3ad7fa" />
+      <stop offset="1" stop-color="#a88aff" />
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#7d9ab9" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+    <linearGradient id="screen" x1="0" x2="0.8" y1="0" y2="1">
+      <stop offset="0" stop-color="#16273a" />
+      <stop offset="1" stop-color="#11172b" />
+    </linearGradient>
+    <clipPath id="rounded">
+      <rect width="1280" height="340" rx="23" ry="23" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1280" height="340" fill="url(#background)" />
+    <rect width="1280" height="340" fill="url(#grid)" />
+    <circle cx="1092" cy="-75" r="295" fill="#6650b8" opacity="0.13" />
+    <circle cx="12" cy="353" r="270" fill="#068fab" opacity="0.12" />
+    <path d="M0 333H1280" stroke="url(#accent)" stroke-width="5" />
+    <rect x="65" y="56" width="5" height="26" rx="2.5" fill="#45dffb" />
+    <text x="87" y="77" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3.5" fill="#70e1f9">HELLO, I'M</text>
+    <text x="65" y="151" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="800" fill="#f5f8ff">ALI NASSER</text>
+    <text x="65" y="215" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="800" fill="#f5f8ff">AL-OJEELY<tspan fill="#68defb">.</tspan></text>
+    <text x="67" y="256" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#c5d5e8">Desktop Apps  /  Web Interfaces  /  Game Tools</text>
+    <rect x="66" y="279" width="164" height="29" rx="14.5" fill="#17404a" stroke="#2b869a" stroke-width="1" />
+    <circle cx="82" cy="294" r="4" fill="#63edda" />
+    <text x="95" y="299" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#a4f7e9">OFFLINE-FIRST</text>
+    <rect x="243" y="279" width="154" height="29" rx="14.5" fill="#292044" stroke="#7857b1" stroke-width="1" />
+    <circle cx="260" cy="294" r="4" fill="#c3a1ff" />
+    <text x="273" y="299" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#d6c2ff">EN / AR UX</text>
+    <g transform="translate(844,48)">
+      <rect x="0" y="0" width="377" height="248" rx="16" fill="url(#screen)" stroke="#49637e" stroke-width="1.5" />
+      <path d="M0 48H377" stroke="#415773" stroke-width="1" />
+      <circle cx="24" cy="24" r="5" fill="#fa7285" />
+      <circle cx="44" cy="24" r="5" fill="#f9c965" />
+      <circle cx="64" cy="24" r="5" fill="#69ddb5" />
+      <text x="185" y="29" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#a0b8d1">developer.profile</text>
+      <g font-family="Consolas, 'Courier New', monospace" font-size="17">
+        <text x="25" y="87" fill="#8ce7fd">const</text>
+        <text x="84" y="87" fill="#eff2ff">focus</text>
+        <text x="141" y="87" fill="#a6b6d0">=</text>
+        <text x="157" y="87" fill="#f7ca8f">[</text>
+        <text x="45" y="120" fill="#d6c0ff">"desktop", "web",</text>
+        <text x="45" y="152" fill="#d6c0ff">"game tooling",</text>
+        <text x="45" y="184" fill="#d6c0ff">"localization"</text>
+        <text x="25" y="210" fill="#f7ca8f">];</text>
+        <text x="25" y="232" fill="#6ce6cb">// build. learn. improve.</text>
+      </g>
+    </g>
+    <path d="M807 94L782 113V230L807 248" fill="none" stroke="#5fcde7" stroke-opacity="0.25" stroke-width="2" />
+    <circle cx="806" cy="94" r="4" fill="#8bd7f4" opacity="0.65" />
+    <circle cx="806" cy="248" r="4" fill="#8bd7f4" opacity="0.65" />
+  </g>
+</svg>

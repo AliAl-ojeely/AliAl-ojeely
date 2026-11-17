@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-labelledby="title desc">
+<title id="title">Artwork for ARABIC L10 HUB</title>
+<desc id="desc">Decorative editorial project card for the developer portfolio; not an application screenshot.</desc>
+<defs>
+       <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0d1424"/><stop offset="1" stop-color="#352639"/></linearGradient>
+       <linearGradient id="accentGrad" x1="0" x2="1"><stop offset="0" stop-color="#f4b383"/><stop offset="1" stop-color="#9ca0fa"/></linearGradient>
+       <radialGradient id="ambient"><stop offset="0" stop-color="#f4b383" stop-opacity=".2"/><stop offset="1" stop-color="#f4b383" stop-opacity="0"/></radialGradient>
+       <pattern id="mesh" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#9cb4c7" stroke-opacity=".09"/></pattern>
+       <clipPath id="rounded"><rect width="900" height="380" rx="19"/></clipPath>
+       </defs>
+       <g clip-path="url(#rounded)">
+       <rect width="900" height="380" fill="url(#bg)"/>
+       <rect width="900" height="380" fill="url(#mesh)"/>
+       <circle cx="750" cy="120" r="260" fill="url(#ambient)"/>
+       <path d="M0 2H900" stroke="#f4b383" stroke-width="4"/>
+       <text x="43" y="50" font-family="Consolas,'Courier New',monospace" font-size="16" font-weight="700" fill="#f4b383" letter-spacing="2">03 / SELECTED WORK</text>
+       <text x="43" y="135" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="800" letter-spacing="-1.5" fill="#f4f7fe">ARABIC L10</text>
+       <text x="43" y="197" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="800" letter-spacing="-1.3" fill="#f4f7fe">HUB</text>
+       <rect x="43" y="221" width="53" height="4" rx="2" fill="#f4b383"/>
+       <text x="43" y="261" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#b4c5db">A home for Arabic game patches</text>
+       <rect x="42" y="310" width="460" height="38" rx="12" fill="#21304a" stroke="#44536b"/>
+       <text x="59" y="334" font-family="Consolas,'Courier New',monospace" font-size="16" fill="#dce9f5">REACT / VITE / RTL</text>
+       <path d="M521 35V347" stroke="#f4b383" stroke-opacity=".19" stroke-dasharray="5 10"/>
+       <rect x="536" y="61" width="317" height="267" rx="14" fill="#172338" stroke="#555981" stroke-width="1.5"/>
+           <path d="M536 97H853" stroke="#4b5778"/>
+           <circle cx="555" cy="79" r="4" fill="#f2ac90"/><circle cx="570" cy="79" r="4" fill="#9c87ee"/>
+           <text x="697" y="85" text-anchor="middle" font-family="Consolas,monospace" font-size="12" fill="#acc2d4">LOCALIZATION LIBRARY</text>
+           <rect x="556" y="118" width="276" height="50" rx="9" fill="#26394a"/>
+           <text x="575" y="149" font-family="Consolas,monospace" font-size="17" font-weight="700" fill="#ffc99a">AR</text>
+           <path d="M614 142H748" stroke="#7698b1" stroke-width="2.5" stroke-linecap="round"/>
+           <circle cx="787" cy="143" r="14" fill="#325e61"/><path d="M781 143l5 5 9-11" fill="none" stroke="#83e6c9" stroke-width="3" stroke-linecap="round"/>
+           <rect x="556" y="179" width="130" height="132" rx="9" fill="#2b3a58"/>
+           <rect x="698" y="179" width="134" height="132" rx="9" fill="#3c3258"/>
+           <rect x="572" y="197" width="98" height="45" rx="6" fill="#456e8d"/>
+           <rect x="714" y="197" width="102" height="45" rx="6" fill="#806597"/>
+           <path d="M574 257h86M574 270h66M574 284h83" stroke="#92bfd2" stroke-width="4" stroke-linecap="round"/>
+           <path d="M801 257h-85M801 270h-59M801 284h-81" stroke="#c2acd9" stroke-width="4" stroke-linecap="round"/>
+       <path d="M0 378H900" stroke="url(#accentGrad)" stroke-width="4"/>
+       </g>
+</svg>

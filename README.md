@@ -1,102 +1,137 @@
+<!-- GitHub Profile README | Personal brand: Midnight / Cyan / Lavender -->
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Ali Nasser Al-Ojeely - Software Developer | Desktop Apps, Web Interfaces, Game Tools" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-hero-light.svg">
+  <img src="assets/profile-hero-dark.svg" width="100%" alt="Ali Nasser Al-Ojeely | Software developer focused on desktop apps, web experiences, and game tools" />
+</picture>
 
-<p><strong>Building practical, polished software - from desktop utilities to browser-based game tools.</strong></p>
+<br />
 
-<a href="https://alial-ojeely.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="https://alial-ojeely.github.io/Arabic-L10-Hub/"><img alt="Arabic L10 Hub" src="https://img.shields.io/badge/Arabic%20L10%20Hub-Explore-8b5cf6?style=flat-square&logo=react&logoColor=white" /></a>
-<a href="https://linkedin.com/in/alinasseralojeely"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:alialojeely@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20Touch-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
+<strong>DESKTOP ENGINEERING &nbsp; / &nbsp; WEB EXPERIENCES &nbsp; / &nbsp; GAME TOOLING</strong>
+
+<p>
+  I build <strong>offline-first applications</strong>, thoughtful interfaces, and tools that make complex workflows feel simple.
+</p>
+
+<a href="https://alial-ojeely.github.io/"><img alt="Portfolio website" src="https://img.shields.io/badge/PORTFOLIO-Explore-2dd4bf?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0b1220&amp;labelColor=152338" /></a>
+<a href="https://alial-ojeely.github.io/Arabic-L10-Hub/"><img alt="Arabic L10 Hub website" src="https://img.shields.io/badge/ARABIC_L10_HUB-Visit-a78bfa?style=for-the-badge&amp;logo=react&amp;logoColor=ffffff&amp;labelColor=152338" /></a>
+<a href="https://www.linkedin.com/in/alinasseralojeely/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LINKEDIN-Connect-60a5fa?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ffffff&amp;labelColor=152338" /></a>
+<a href="mailto:alialojeely@gmail.com"><img alt="Email Ali" src="https://img.shields.io/badge/EMAIL-Say_Hello-cbd5e1?style=for-the-badge&amp;logo=gmail&amp;logoColor=ffffff&amp;labelColor=152338" /></a>
 
 </div>
 
-## About Me
+---
 
-I'm **Ali Nasser Al-Ojeely**, a software developer focused on **desktop applications, frontend development, and game-related tools**. I enjoy turning complex workflows into clean, useful interfaces - especially software that is **offline-first, privacy-conscious, and accessible in both English and Arabic**.
+### 01 / ABOUT
 
-My work spans **Electron and Node.js**, **C#/.NET desktop applications**, **React web interfaces**, and **C++ systems programming**. Lately, I have been exploring **native graphics integration, browser-based emulation, localization workflows, and automated testing**.
+I'm **Ali Nasser Al-Ojeely**, a software developer focused on **desktop applications, frontend engineering, and game-related tools**. I work across **Electron + Node.js**, **C# / .NET / WPF**, **React**, and **C++** to build software with clear interfaces and practical purpose.
 
-## Featured Projects
+I care about three things in particular: **local-first design**, **English/Arabic experiences with proper RTL support**, and **reliable engineering** - from modular architecture to testing and diagnostics.
+
+> **Current direction:** Going deeper into desktop and native integration, browser-based emulation with WebAssembly, game localization workflows, and OOP/system design. DirectX-based in-game overlays are still experimental work, not a finished cross-game feature.
+
+### 02 / SELECTED WORK
+
+<div align="center"><sub>A selection of projects that represent what I build - click any card to explore the source.</sub></div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/AliAl-ojeely/nexus-game-launcher"><img src="assets/projects/nexus.svg" width="100%" alt="Nexus Game Launcher project cover" /></a>
       <h3><a href="https://github.com/AliAl-ojeely/nexus-game-launcher">Nexus Game Launcher</a></h3>
-      A local PC-game library manager featuring playtime and session analytics, bilingual UI, and an <strong>experimental</strong> in-game overlay.<br /><br />
-      <sub><strong>Electron | Node.js | JavaScript | C++ (overlay experiments)</strong></sub>
+      <p>An English/Arabic PC game library manager with session tracking, playtime analytics, and a customizable desktop interface. Native in-game overlay experiments remain <strong>in development</strong>.</p>
+      <sub><strong>Electron &middot; Node.js &middot; JavaScript &middot; C++ (experimental)</strong></sub>
+      <p><a href="https://github.com/AliAl-ojeely/nexus-game-launcher">Source &amp; documentation</a></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/AliAl-ojeely/Neo-Geo-Web"><img src="assets/projects/neo.svg" width="100%" alt="Neo-Geo Web Port project cover" /></a>
       <h3><a href="https://github.com/AliAl-ojeely/Neo-Geo-Web">Neo-Geo Web Port</a></h3>
-      An offline-capable, bilingual browser frontend for personal Neo Geo libraries, using EmulatorJS and FBNeo/WebAssembly. Users provide their own game files.<br /><br />
-      <sub><strong>JavaScript | Python | WebAssembly | EmulatorJS</strong></sub>
+      <p>An offline-capable browser frontend for a personal Neo Geo collection, with English/Arabic UI, local ROM/BIOS selection, custom controls, and FBNeo running through WebAssembly.</p>
+      <sub><strong>JavaScript &middot; Python &middot; EmulatorJS &middot; FBNeo / WebAssembly</strong></sub>
+      <p><a href="https://github.com/AliAl-ojeely/Neo-Geo-Web">Source &amp; documentation</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/AliAl-ojeely/Arabic-L10-Hub"><img src="assets/projects/hub.svg" width="100%" alt="Arabic L10 Hub project cover" /></a>
       <h3><a href="https://github.com/AliAl-ojeely/Arabic-L10-Hub">Arabic L10 Hub</a></h3>
-      A noncommercial web platform for organizing and sharing Arabic game-localization patches, with responsive pages and right-to-left design.<br /><br />
-      <sub><strong>React | Vite | CSS Modules | GitHub Pages</strong></sub><br />
-      <a href="https://alial-ojeely.github.io/Arabic-L10-Hub/">Live website</a>
+      <p>A nonprofit, Arabic-first platform for preserving and sharing fan-made game localization patches. Built with responsive pages, reusable components, and right-to-left layouts.</p>
+      <sub><strong>React &middot; Vite &middot; CSS Modules &middot; GitHub Pages</strong></sub>
+      <p><a href="https://alial-ojeely.github.io/Arabic-L10-Hub/">Live website</a> &nbsp; | &nbsp; <a href="https://github.com/AliAl-ojeely/Arabic-L10-Hub">Source</a></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/AliAl-ojeely/Game-Translator"><img src="assets/projects/translator.svg" width="100%" alt="Game Translator project cover" /></a>
       <h3><a href="https://github.com/AliAl-ojeely/Game-Translator">Game Translator</a></h3>
-      A privacy-focused Windows localization utility for JSON game text, with a WPF interface and support for local LLM endpoints.<br /><br />
-      <sub><strong>C# | .NET 8 | WPF | MVVM</strong></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AliAl-ojeely/CMD-Vault">CMD Vault</a></h3>
-      A fully offline English/Arabic command reference for Windows, Linux, and macOS, with searchable explanations and copy-ready commands.<br /><br />
-      <sub><strong>Electron | JavaScript | Cross-platform desktop</strong></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AliAl-ojeely/SnipSave">SnipSave</a></h3>
-      A Windows screenshot utility that automatically saves Snipping Tool captures, prevents duplicates, and supports a system tray and bilingual interface.<br /><br />
-      <sub><strong>C# | .NET 8 | WPF | Windows APIs</strong></sub>
+      <p>A fully offline Windows localization utility for JSON game text, with side-by-side translation review, structured output, and integrations with local LLM endpoints.</p>
+      <sub><strong>C# &middot; .NET 8 &middot; WPF &middot; MVVM &middot; Local LLMs</strong></sub>
+      <p><a href="https://github.com/AliAl-ojeely/Game-Translator">Source &amp; documentation</a></p>
     </td>
   </tr>
 </table>
 
-### More Projects
+### 03 / MORE SOFTWARE I'VE BUILT
 
-- **[TempCleaner](https://github.com/AliAl-ojeely/TempCleaner)** - Windows cleanup utility built with C# and WPF.
-- **[Folder Notifier](https://github.com/AliAl-ojeely/Folder-Notifier)** - Offline folder notes and Explorer integration with a bilingual WPF UI.
-- **[Inno Setup Installer Template](https://github.com/AliAl-ojeely/InnoSetup-Game-Installer-Template)** - Customizable Windows installer scripts with detailed progress reporting.
-- **[Bank System (C++)](https://github.com/AliAl-ojeely/Bank_System_OOP)** - Console banking project built around OOP, modularity, and access permissions.
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [**CMD Vault**](https://github.com/AliAl-ojeely/CMD-Vault) | Offline, bilingual command reference for Windows, Linux, and macOS | Electron, JS |
+| [**SnipSave**](https://github.com/AliAl-ojeely/SnipSave) | Automatically saves Windows Snipping Tool screenshots with duplicate protection | C#, WPF |
+| [**TempCleaner**](https://github.com/AliAl-ojeely/TempCleaner) | Windows cleanup utility with an English/Arabic UI | C#, .NET 8 |
+| [**Folder Notifier**](https://github.com/AliAl-ojeely/Folder-Notifier) | Folder-based notes, File Explorer integration, and tray support | C#, WPF |
+| [**Inno Setup Game Installer**](https://github.com/AliAl-ojeely/InnoSetup-Game-Installer-Template) | Customizable installer scripts with precise progress and time estimates | Inno Setup |
+| [**Bank System (OOP)**](https://github.com/AliAl-ojeely/Bank_System_OOP) | A modular C++ console banking system applying OOP principles | C++ |
 
-## Technology & Tools
+<div align="center"><a href="https://github.com/AliAl-ojeely?tab=repositories"><strong>View all public repositories</strong></a></div>
+
+### 04 / THE TOOLKIT
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,python,html,css,react,vite,nodejs,electron,dotnet,git,github,visualstudio,sqlite&perline=15" alt="C++, C#, JavaScript, Python, HTML, CSS, React, Vite, Node.js, Electron, .NET, Git, GitHub, Visual Studio, SQLite" />
+
+<strong>LANGUAGES</strong>
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,python,html,css&amp;perline=6" alt="C++, C#, JavaScript, Python, HTML and CSS" />
+
+<strong>FRAMEWORKS &amp; RUNTIMES</strong>
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,electron,dotnet&amp;perline=5" alt="React, Vite, Node.js, Electron and .NET" />
+
+<strong>TOOLS &amp; WORKFLOWS</strong>
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,sqlite,linux&amp;perline=5" alt="Git, GitHub, Visual Studio, SQLite and Linux" />
+
 </div>
 
 <br />
 
-| Area | Technologies and practices |
+| What I work on | Engineering focus |
 | :--- | :--- |
-| **Desktop development** | Electron, Node.js, C#/.NET, WPF, Windows Forms, Windows APIs |
-| **Frontend engineering** | React, Vite, JavaScript, HTML, CSS, responsive UI, Arabic RTL interfaces |
-| **Game tools and systems** | C++, OOP, DXGI/DirectX experiments, FBNeo/WebAssembly, Inno Setup |
-| **Automation and quality** | Python, Git/GitHub, GitHub Actions, JSON/CSV workflows, automated tests |
+| **Desktop &amp; native** | Electron, C#/.NET, WPF, Windows integration, experimental C++ graphics bridges |
+| **Web &amp; UI systems** | React, JavaScript, responsive layouts, UX architecture, Arabic RTL support |
+| **Game technology** | EmulatorJS/FBNeo, WebAssembly, local game libraries, Inno Setup installers |
+| **Developer tooling** | Python automation, JSON/CSV processing, Git, diagnostics, regression testing |
 
-## Currently Exploring
+### 05 / WHAT I'M EXPLORING NOW
 
-- **Game overlays and native integration** - Bridging Electron-rendered interfaces with C++ graphics hooks; the Nexus overlay remains experimental, with DirectX 12 support still incomplete.
-- **Offline-first browser technology** - WebAssembly-powered game tooling, local-file workflows, and resilient offline experiences.
-- **Game localization engineering** - Arabic text pipelines, RTL usability, translation QA, and modding utilities.
-- **Software architecture** - Deepening C++/C# OOP skills and studying SQL and data modeling.
+- **Desktop + graphics:** Experimenting with native graphics interop and a configurable in-game overlay for Nexus. DirectX 12 support is not yet complete.
+- **Web emulation + offline reliability:** Improving Neo-Geo Web Port's local assets, controller support, and offline installation workflows.
+- **Arabic software localization:** Creating translation pipelines, verification tools, and accessible bilingual experiences.
+- **Engineering fundamentals:** Strengthening OOP, C# architecture, SQL fundamentals, and testing practices.
 
-## GitHub Snapshot
+<details>
+  <summary><strong>06 / GITHUB ACTIVITY - VIEW STATS</strong></summary>
+  <br />
+  <div align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliAl-ojeely&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="Ali's GitHub statistics" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAl-ojeely&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Top languages across public repositories" />
+    <p><sub>Repository language distribution is not a proficiency ranking. Cards depend on a third-party service.</sub></p>
+  </div>
+</details>
+
+<br />
 
 <div align="center">
-  <img height="165" alt="Ali's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=AliAl-ojeely&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-  <img height="165" alt="Most-used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAl-ojeely&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <sub>Languages shown are based on public repository statistics, not a measure of proficiency.</sub>
-  <p><strong>Interested in building useful tools, improving developer workflows, and making software more accessible.</strong></p>
-  <a href="https://github.com/AliAl-ojeely?tab=repositories">Explore all repositories</a> | <a href="mailto:alialojeely@gmail.com">Contact me</a>
+  <a href="mailto:alialojeely@gmail.com"><img src="assets/contact-banner.svg" width="100%" alt="Connect with Ali Nasser Al-Ojeely by email" /></a>
+  <p><a href="https://alial-ojeely.github.io/">Portfolio</a> &nbsp; &middot; &nbsp; <a href="https://github.com/AliAl-ojeely?tab=repositories">All repositories</a> &nbsp; &middot; &nbsp; <a href="https://www.linkedin.com/in/alinasseralojeely/">LinkedIn</a> &nbsp; &middot; &nbsp; <a href="mailto:alialojeely@gmail.com">Email</a></p>
+  <sub>Designed to be useful. Built to keep getting better.</sub>
 </div>

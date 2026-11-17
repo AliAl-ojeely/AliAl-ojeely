@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="165" viewBox="0 0 1200 165" role="img" aria-labelledby="title desc">
+<title id="title">Contact Ali Nasser Al-Ojeely</title>
+<desc id="desc">Invitation to connect by email</desc>
+<defs><linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#101a2d"/><stop offset="1" stop-color="#1b1532"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#59e0e5"/><stop offset="1" stop-color="#ad98f9"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#6a99af" stroke-opacity=".1"/></pattern><clipPath id="rounded"><rect width="1200" height="165" rx="19"/></clipPath></defs>
+<g clip-path="url(#rounded)"><rect width="1200" height="165" fill="url(#bg)"/><rect width="1200" height="165" fill="url(#grid)"/>
+<path d="M0 0H1200" stroke="url(#accent)" stroke-width="4"/><text x="42" y="44" font-family="Consolas,'Courier New',monospace" font-size="15" letter-spacing="3" fill="#82dce8">LET'S CONNECT</text>
+<text x="41" y="95" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="800" fill="#f4f6fe">Have something worth building?</text>
+<text x="42" y="127" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#acbbd2">I'm always interested in useful software and thoughtful collaboration.</text>
+<g transform="translate(994 41)"><rect x="0" y="0" width="156" height="74" rx="15" fill="#233e54" stroke="#5fe1e7" stroke-width="1.5"/>
+<path d="M22 25H51V47H22Z M22 25l14.5 13L51 25" fill="none" stroke="#67e5e5" stroke-width="2.8" stroke-linejoin="round"/>
+<text x="63" y="42" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#e9fafd">EMAIL</text></g></g>
+</svg>
